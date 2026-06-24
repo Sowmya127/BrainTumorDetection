@@ -12,7 +12,7 @@ No Tumor
 The system is deployed through a Flask-based web interface that
 allows users to upload MRI scans and view prediction results.
 
-## ✨ Features
+## Features
 
 MRI image upload and analysis
 Brain tumor classification using Transfer Learning (VGG16)
@@ -23,7 +23,7 @@ Prediction history page for viewing previous patient records
 SQLite database integration for storing prediction history
 User-friendly web interface built using Flask
 
-Technologies Used
+## Technologies Used
 Python
 TensorFlow
 Keras
