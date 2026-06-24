@@ -1,4 +1,4 @@
-Brain Tumor Detection System
+# Brain Tumor Detection System
 
 A Brain Tumor Detection System developed using Transfer Learning
 with the VGG16 pre-trained convolutional neural network.
@@ -12,7 +12,8 @@ No Tumor
 The system is deployed through a Flask-based web interface that
 allows users to upload MRI scans and view prediction results.
 
-Features
+## ✨ Features
+
 MRI image upload and analysis
 Brain tumor classification using Transfer Learning (VGG16)
 Detection of Glioma, Meningioma, Pituitary Tumor, and No Tumor cases
